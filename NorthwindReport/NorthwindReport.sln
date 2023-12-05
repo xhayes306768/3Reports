@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "NorthwindReport", "NorthwindReport\NorthwindReport.rptproj", "{CB222A94-31F8-46C0-B2E3-C664E97E059C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.Debug|Default.ActiveCfg = Debug
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.Debug|Default.Build.0 = Debug
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.Debug|Default.Deploy.0 = Debug
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.DebugLocal|Default.Build.0 = DebugLocal
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.Release|Default.ActiveCfg = Release
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.Release|Default.Build.0 = Release
+		{CB222A94-31F8-46C0-B2E3-C664E97E059C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {177F33EA-BBD0-455C-B614-EE360B304739}
+	EndGlobalSection
+EndGlobal

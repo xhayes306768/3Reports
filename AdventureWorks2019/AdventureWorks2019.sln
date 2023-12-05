@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "AdventureWorks2019", "AdventureWorks2019\AdventureWorks2019.rptproj", "{7211F749-C565-4F6D-9986-10F7C9A0D7E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.Debug|Default.ActiveCfg = Debug
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.Debug|Default.Build.0 = Debug
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.Debug|Default.Deploy.0 = Debug
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.DebugLocal|Default.Build.0 = DebugLocal
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.Release|Default.ActiveCfg = Release
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.Release|Default.Build.0 = Release
+		{7211F749-C565-4F6D-9986-10F7C9A0D7E0}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D07B30-8BD7-45C0-A3F2-297980F30237}
+	EndGlobalSection
+EndGlobal
